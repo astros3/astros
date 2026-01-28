@@ -1,3 +1,5 @@
+package com.example.astros;
+
 public class Circle extends Shape {
 
     int radius;
@@ -5,5 +7,7 @@ public class Circle extends Shape {
     public Circle(int x, int y, int radius) {
         super(x, y);
         this.radius = radius;
+        String color = "blue";
+
     }
 }
