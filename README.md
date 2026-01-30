@@ -1,6 +1,13 @@
-# CMPUT 301 : Lab 4 Participation Exercise
+CCID:
 
-## Student Details
+hyusuf1
 
-- **Full Name:** `Mohammad Sadman Sharar Sayem`
-- **CCID:** `msayem`
+Mannjayp
+
+huayu2
+
+tmunjal
+
+Msayem
+
+eaintcho

@@ -3,6 +3,5 @@ package com.example.astros;
 public abstract class Shape {
     protected int x;
     protected int y;
-    protected String color = "Blue";
+    String color = "Yellow";
 }
-
