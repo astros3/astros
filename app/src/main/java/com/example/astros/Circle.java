@@ -1,3 +1,7 @@
+package com.example.astros;
+
+import com.example.astros.Shape;
+
 public class Circle extends Shape {
 
     int radius;
