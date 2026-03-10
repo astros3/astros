@@ -1,7 +1,14 @@
 package com.example.astros;
 
 public class Rectangle extends Shape {
-    public int getArea() {
-        return x * y;
+
+    int width;
+    int height;
+
+    public Rectangle(int x, int y, int width, int height) {
+        super(x, y);
+        this.width = width;
+        this.height = height;
     }
+
 }
